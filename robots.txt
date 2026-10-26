@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://asclepioamarres/.com o .com.ar
+Sitemap: https://www.asclepioamarresdeamor.com/sitemap.xml
