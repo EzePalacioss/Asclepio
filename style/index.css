@@ -12,8 +12,8 @@ body{
 /* HERO SECTION */
 
 :root {
-  --color-boton: #6a1b4d;
-  --color-boton-hover: #822262;
+  --color-boton: #00c8b3;
+  --color-boton-hover: #00b39e;
   --color-fondo: #08050e;
   --fondo-estrellado: radial-gradient(1px 1px at 20px 30px, #ffffff, rgba(0,0,0,0)),
     radial-gradient(1.5px 1.5px at 100px 150px, #e9d5ff, rgba(0,0,0,0)),
@@ -81,7 +81,7 @@ h1,
   font-family: inherit;
   font-weight: 600;
   font-size: 1rem;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 15px rgba(0, 200, 179, 0.4);
   transition: all 0.3s ease;
   cursor: pointer;
   margin-top: 10px;
