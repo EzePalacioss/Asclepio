@@ -1,4 +1,4 @@
-const NUMERO_WHATSAPP_ACTIVO = "5493512021386";
+const NUMERO_WHATSAPP_ACTIVO = "549";
 const MENSAJE_PREDETERMINADO = "Hola, quisiera solicitar una consulta espiritual."
 
 function actualizarNumeroWhatsApp(){
